@@ -1,0 +1,15 @@
+[{
+    "advertTitle":"Software Developer",
+    "content":"Burada iş açıklaması olacak",
+    "experience":"4",
+    "salary":"2000",
+    "published":true
+},
+
+{
+    "advertTitle":"Data Engineer",
+    "content":"Burada iş açıklaması olacak",
+    "experience":"6",
+    "salary":"4000",
+    "published":true
+}]

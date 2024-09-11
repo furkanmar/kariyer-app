@@ -1,0 +1,13 @@
+[{
+        "link":{"text": "Ana sayfa", "url":"index.html"},
+        "pageTitle":"AnaSayfa",
+        "Content":"Burası anasayfa",
+        "published":true
+    },
+    
+    {
+        "link":{"text":"İlanlar", "url":"ilanlar.html"},
+        "pageTitle":"İlanlar",
+        "Content":"Burası İlan sayfası",
+        "published":true
+    }]
